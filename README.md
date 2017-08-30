@@ -1,5 +1,7 @@
-sbt run
+`sbt run`
 
-curl http://localhost:9000 works
+`curl http://localhost:9000`
+works
 
-curl -X http://localhost:9000 fails
+`curl -X POST http://localhost:9000`
+fails
